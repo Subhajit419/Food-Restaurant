@@ -183,7 +183,6 @@ nav ul li a.active,a:hover{
   width: 14rem;
   background: #333;
   color: #fff;
-  padding-bottom: 10px;
 }
 #about .content button::before {
   content: '';
